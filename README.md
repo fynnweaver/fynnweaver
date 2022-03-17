@@ -4,7 +4,6 @@
 **fynnweaver/fynnweaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
 - 🕊️ Pronouns: he/him
 - 🦅 I'm interested in how conscious creation and implementation of algorithms can improve people's lives. Specifically in realms of the environment, social media, health, and real estate.
 - 🐣 I’m currently studying Data Science in a Lighthouse Labs Bootcamp. I'm also currently attending the OpenAI Machine Learning in Earth and Environmental Data Science Workshop.
