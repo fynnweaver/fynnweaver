@@ -10,7 +10,7 @@
 - 🐥 Seeking employment 
 - 🐉 I love to go birding and to care for my 50+ houseplants!
 
-- 🐓 [LinkedIn](https://www.linkedin.com/in/fynn-davis/) |  [Resume](https://resume.creddle.io/resume/d1sr7c3sujk)
+- 🐓 [LinkedIn](https://www.linkedin.com/in/fynn-davis/) |  [Resume](https://resume.creddle.io/resume/d1sr7c3sujk) | [HackerRank](https://www.hackerrank.com/fynn_weaver)
 
 
 
