@@ -8,7 +8,7 @@
 - 🐣 Graduated Lighthouse Labs Data Science Bootcamp April 2022. Currently attending the OpenAI Machine Learning in Earth and Environmental Data Science Workshop hosted by Aggregate Intellect.
 - 🐥 Seeking employment 
 - 🦅 I'm interested in how conscious creation and implementation of algorithms can improve the world we live in. Specifically in the realms of the environment, social media, health, and urban development.
-- 🐉 I love to go birding and to care for my 50+ houseplants!
+- 🐉 I love to go birding and to care for my many houseplants!
 
 - 🐓 [LinkedIn](https://www.linkedin.com/in/fynn-davis/) |  [Resume](https://resume.creddle.io/resume/d1sr7c3sujk) | [HackerRank](https://www.hackerrank.com/fynn_weaver)
 
