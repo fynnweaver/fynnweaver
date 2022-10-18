@@ -5,8 +5,8 @@
 -->
 
 - 🕊️ Pronouns: he/him
-- 🐣 Graduated Lighthouse Labs Data Science Bootcamp April 2022. Currently attending the OpenAI Machine Learning in Earth and Environmental Data Science Workshop hosted by Aggregate Intellect.
-- 🐥 Seeking employment 
+- 🐣 Graduated Quest University in 2020 and Lighthouse Labs Data Science Bootcamp April 2022
+- 🐥 Currently working part-time as a manager at a local plant store. Still looking for employment in the data world!
 - 🦅 I'm interested in how conscious creation and implementation of algorithms can improve the world we live in. Specifically in the realms of the environment, social media, health, and urban development.
 - 🐉 I love to go birding and to care for my many houseplants!
 
